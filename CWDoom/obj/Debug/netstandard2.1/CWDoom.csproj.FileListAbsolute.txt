@@ -1,0 +1,13 @@
+C:\Users\un\RiderProjects\CWDoom\CWDoom\obj\Debug\netstandard2.1\CWDoom.csproj.AssemblyReference.cache
+C:\Users\un\RiderProjects\CWDoom\CWDoom\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\un\RiderProjects\CWDoom\CWDoom\obj\Debug\netstandard2.1\CWDoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\un\RiderProjects\CWDoom\CWDoom\obj\Debug\netstandard2.1\CWDoom.AssemblyInfoInputs.cache
+C:\Users\un\RiderProjects\CWDoom\CWDoom\obj\Debug\netstandard2.1\CWDoom.AssemblyInfo.cs
+C:\Users\un\RiderProjects\CWDoom\CWDoom\obj\Debug\netstandard2.1\CWDoom.csproj.CoreCompileInputs.cache
+C:\Users\un\RiderProjects\CWDoom\CWDoom\bin\Debug\netstandard2.1\uk.polancz.jack.doom.deps.json
+C:\Users\un\RiderProjects\CWDoom\CWDoom\bin\Debug\netstandard2.1\uk.polancz.jack.doom.dll
+C:\Users\un\RiderProjects\CWDoom\CWDoom\bin\Debug\netstandard2.1\MMHOOK_Assembly-CSharp.dll
+C:\Users\un\RiderProjects\CWDoom\CWDoom\bin\Debug\netstandard2.1\MMHOOK_Zorro.Recorder.dll
+C:\Users\un\RiderProjects\CWDoom\CWDoom\bin\Debug\netstandard2.1\Zorro.Recorder.dll
+C:\Users\un\RiderProjects\CWDoom\CWDoom\obj\Debug\netstandard2.1\CWDoom.csproj.CopyComplete
+C:\Users\un\RiderProjects\CWDoom\CWDoom\obj\Debug\netstandard2.1\uk.polancz.jack.doom.dll
